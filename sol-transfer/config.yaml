@@ -1,0 +1,22 @@
+solana_rpc_url: "https://api.devnet.solana.com"
+
+# Amount to transfer in SOL
+amount_sol: 0.001
+
+sender_wallets:
+  - address: "SENDER_WALLET_ADDRESS_1"
+    private_key: "PRIVATE_KEY_BASE58_1"
+  - address: "SENDER_WALLET_ADDRESS_2" 
+    private_key: "PRIVATE_KEY_BASE58_2"
+
+recipient_addresses:
+  - "RECIPIENT_ADDRESS_1"
+  - "RECIPIENT_ADDRESS_2"
+  - "RECIPIENT_ADDRESS_3"
+
+# Example configuration:
+# sender_wallets:
+#   - address: "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM"
+#     private_key: "5Hj2kR8v3LfJ9m..."  # Your actual private key in base58
+#   - address: "8PzFVdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+#     private_key: "3Gk8mR6v4MfK2n..."  # Your actual private key in base58
