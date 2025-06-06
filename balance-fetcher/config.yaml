@@ -1,0 +1,9 @@
+solana_rpc_url: "https://api.mainnet-beta.solana.com"
+# solana_rpc_url: "http://127.0.0.1:8899"
+# solana_rpc_url: "https://api.devnet.solana.com"
+
+wallets:
+  - "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM"  # Phantom Treasury
+  - "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"  # USDC Token Account
+  - "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"  # USDT Token Account
+  
