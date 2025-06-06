@@ -1,4 +1,11 @@
 [workspace]
 members = [
-    "balance-fetcher", "sol-transfer",
+    "balance-fetcher", 
+    "sol-transfer",
+    "geyser-watcher", 
 ]
+
+[workspace.dependencies]
+solana-sdk = "2.1.21"
+serde_yaml = "0.9"
+

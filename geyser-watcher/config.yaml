@@ -1,0 +1,3 @@
+geyser_endpoint: "https://grpc.ny.shyft.to"
+geyser_x_token: "INSERT-TOKEN-HERE"
+
