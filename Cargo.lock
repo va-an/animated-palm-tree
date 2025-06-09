@@ -484,10 +484,10 @@ name = "balance-fetcher"
 version = "0.1.0"
 dependencies = [
  "futures",
- "reqwest",
  "serde",
- "serde_json",
  "serde_yaml",
+ "solana-client",
+ "solana-sdk",
  "tokio",
 ]
 

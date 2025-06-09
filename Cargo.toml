@@ -4,8 +4,10 @@ members = [
     "sol-transfer",
     "geyser-watcher", 
 ]
+resolver = "3"
 
 [workspace.dependencies]
 solana-sdk = "2.1.21"
+solana-client = "2.1.21"
 serde_yaml = "0.9"
 
